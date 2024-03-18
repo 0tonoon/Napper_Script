@@ -4,7 +4,7 @@ A GO Lang script that will get you the password for the Administrator user `back
 
 ## Requirements
 
-Your machine has to be linked to Napper with a reverse port forwarding on port 9200. Here's a way to do it using Chisel.
+Your machine has to be linked to Napper with a reverse port forward on port 9200. Here's a way to do it using [Chisel](https://github.com/jpillora/chisel).
   - Run this on your linux machine:
 ```console
 user@kali:~$ chisel server -p 9000 --reverse
