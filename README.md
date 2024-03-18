@@ -19,7 +19,7 @@ C:\Users\ruben\Desktop>
 > *You can also use an available port different than 9000 if you want.<br>
 > `chisel.exe` is **NOT** installed by default on Napper. It is your job to get it on Napper before using this script.*
 
-Obviously GO has to be installed on your linux machine (where the script will be executed). If you don't have it installed yet, visit [this link](https://go.dev/doc/install).<br>
+Obviously GO Lang has to be installed on your linux machine (where the script will be executed). If you don't have it installed yet, visit [this link](https://go.dev/doc/install).<br>
 
 ## Usage
 
@@ -39,4 +39,4 @@ Decrypted Data: qFrbskeXMiWlmnyqtlrwkqqHmcztbBmXUdfAlgvn
 ```
 <hr>
 
-`Decrypted Data` is the password for the `backup`. Now it's your turn to find a way to use it and finish your privesc.
+`Decrypted Data` is the password for the `backup` user. Now it's your turn to find a way to use it and finish your privesc.
