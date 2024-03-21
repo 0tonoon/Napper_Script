@@ -25,7 +25,7 @@ Obviously GO Lang has to be installed on your linux machine (where the script wi
 
 Firstly you download the script. After that you give the script the execution permission. Finally you run the script.
 ```console
-user@kali:~$ wget https://github.com/0tonoon/Napper_Script/blob/main/Pass_script
+user@kali:~$ wget https://github.com/croluy/Napper_Script/blob/main/Pass_script
 user@kali:~$ sudo chmod +x Pass_script
 user@kali:~$ go run Pass_script
 user@kali:~$ 
